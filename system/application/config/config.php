@@ -11,6 +11,7 @@
 |	http://example.com/
 |
 */
+#setting config
 $config['base_url']	= "http://localhost/e_learning_new/";
 /*$config['base_url']	= "http://192.168.4.49/e_learning2/";
 
