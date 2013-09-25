@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Inbox Pesan - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <?php echo form_open_multipart('admin/balasinbox');?>
 <table cellspacing="1" class="widget-small" cellspacing="0" cellpadding="1" width="880">
 <?php

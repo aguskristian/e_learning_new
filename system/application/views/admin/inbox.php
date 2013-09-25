@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Inbox Pesan - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <table width="880" bgcolor="#ccc" cellpadding="1" cellspacing="1" class="widget-small">
 <tr bgcolor="#FFF" align="center"><td><strong>No.</strong></td><td><strong>Pengirim</strong></td><td><strong>Subjek Pesan</strong></td><td><strong>Waktu</strong></td><td><strong>Status</strong></td><td><strong>Aksi</strong></td></tr>
 <?php

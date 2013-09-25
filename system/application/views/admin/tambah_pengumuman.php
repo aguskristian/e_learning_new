@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Pengumuman - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <a href="<?php echo base_url(); ?>index.php/admin/pengumuman"><div class="pagingpage"><b> + Pengumuman </b></div></a>
 <a href="<?php echo base_url(); ?>index.php/admin/tambahpengumuman"><div class="pagingpage"><b> + Tambah Pengumuman </b></div><br /><br /></a>
 <table width="870" style="border: 1pt ridge #cccccc;" cellpadding="2" cellspacing="1" class="widget-small">

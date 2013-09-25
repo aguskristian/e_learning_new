@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Upload File - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <a href="<?php echo base_url(); ?>index.php/admin/tambahupload"><div class="pagingpage"><b> + Tambah File / Upload File</b></div></a>
 <a href="<?php echo base_url(); ?>index.php/admin/katdownload"><div class="pagingpage"><b> + Kategori Download</b></div><br /><br /></a>
 <table width="760" style="border: 1pt ridge #cccccc;" cellpadding="2" cellspacing="1" class="widget-small">

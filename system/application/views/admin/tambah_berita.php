@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Edit Berita - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <a href="<?php echo base_url(); ?>index.php/admin/tambahberita"><div class="pagingpage"><b> + Tambah Berita </b></div></a>
 <a href="<?php echo base_url(); ?>index.php/admin/katberita"><div class="pagingpage"><b> + Kategori Berita </b></div></a>
 <a href="<?php echo base_url(); ?>index.php/admin/komenberita"><div class="pagingpage"><b> + Lihat Komentar Berita </b></div></a>

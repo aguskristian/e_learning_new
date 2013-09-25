@@ -5,7 +5,7 @@
 <link href="<?php echo base_url(); ?>system/application/views/admin/css/admin-style.css" type="text/css" rel="stylesheet" />
 <link rel="shortcut icon" href="<?php echo base_url(); ?>system/application/views/e-learning/images/icon.png" />
 <?php echo $scriptmce; ?>
-<title>CONTROL PANEL ADMIN - STIKOM PGRI BANYUWANGI</title>
+<title>CONTROL PANEL ADMIN</title>
 </head>
 
 <body>

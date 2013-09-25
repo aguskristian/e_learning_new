@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Agenda - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <a href="<?php echo base_url(); ?>index.php/admin/tambahagenda"><div class="pagingpage"><b> + Tambah Agenda </b></div><br /><br /></a>
 <table width="860" style="border: 1pt ridge #cccccc;" cellpadding="2" cellspacing="1" class="widget-small">
 <?php echo form_open_multipart('admin/simpanagenda');?>

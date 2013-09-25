@@ -50,10 +50,21 @@
 	<!--MENU DOWNLOAD-->
 			<li><a href="#">Tutorial <img src="<?php echo base_url(); ?>/system/application/views/e-learning/images/down.gif" border="0"></a>
 				  <ul>
+						<li><a href="<?php echo base_url()?>>index.php/learning/kattutorial/">&#8226; PRINTER <img src="<?php echo base_url(); ?>/system/application/views/e-learning/images/right.gif" border="0" align="right"></a>
+							  <ul>
+								<li><a href="<?php echo base_url(); ?>index.php/learning/kattutorial/2">&#8226;Printer EPSON L200</a></li>
+								<li><a href="<?php echo base_url(); ?>index.php/learning/kattutorial/">&#8226;Printer EPSON L350</a></li>
+								<li><a href="<?php echo base_url(); ?>index.php/learning/kattutorial/">&#8226;Printer HP LASER JET L350</a></li>
+							  </ul>
+						</li>
+						<li><a href="<?php echo base_url(); ?>index.php/learning/dosen">&#8226; KOMPUTER </a></li>
+		
+						
+					
 					<?php
-						  foreach($kategori_tutorial->result_array() as $daftar)
+						 # foreach($kategori_tutorial->result_array() as $daftar)
 						  {
-							echo "<li><a href='".base_url()."index.php/learning/kattutorial/".$daftar['id_kategori_tutorial']."'>&#8226; ".$daftar['nama_kategori']."</a></li>";
+							#echo "<li><a href='".base_url()."index.php/learning/kattutorial/".$daftar['id_kategori_tutorial']."'>&#8226; ".$daftar['nama_kategori']."</a></li>";
 						  }
 					  ?>
 				  </ul>

@@ -1,4 +1,4 @@
-<div id="bg-isi"><h2>Module Kategori Tutorial - E-Learning STIKOM PGRI Banyuwangi</h2><br />
+<div id="bg-isi"><h2>E-learning Komputer</h2><br />
 <a href="<?php echo base_url(); ?>index.php/admin/tambahtutorial"><div class="pagingpage"><b> + Tambah Tutorial </b></div></a>
 <a href="<?php echo base_url(); ?>index.php/admin/kattutorial"><div class="pagingpage"><b> + Kategori Tutorial</b></div></a><br><br>
 <?php echo form_open_multipart('admin/simpankattutorial');?>
