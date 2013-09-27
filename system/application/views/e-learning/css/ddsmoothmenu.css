@@ -21,7 +21,7 @@ float: left;
 /*Top level menu link items style*/
 .ddsmoothmenu ul li a{
 display: block;
-background: #414141; /*background of menu items (default state)*/
+/*background: #414141; /*background of menu items (default state)*/
 background-image:url(../images/bg-menu.jpg);
 color: white;
 padding: 10px 10px;

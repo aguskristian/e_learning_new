@@ -10,6 +10,7 @@
 
 <body>
 <div id="bg-head"><img src="<?php echo base_url(); ?>system/application/views/admin/images/bg-head.png" /></div>
+<!--
 <div id="bg-isi">
 <a href="<?php echo base_url(); ?>index.php/admin/polling"><div class="pagingpage"><b> Module Polling</b></div></a>
 <a href="<?php echo base_url(); ?>index.php/admin/matkul"><div class="pagingpage"><b> Module Mata Kuliah</b></div></a>
@@ -17,3 +18,4 @@
 <a href="<?php echo base_url(); ?>index.php/admin/mhs"><div class="pagingpage"><b> Module Mahasiswa</b></div></a>
 <br /><br>
 </div>
+-->
