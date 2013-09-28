@@ -1,8 +1,8 @@
 <div id="kanan">
 <div id="sidebar">
 	<form method="post" action="<?php echo base_url(); ?>index.php/learning/pencarian">
-		<table style="border: 1pt ridge #DDDDDD;" bgcolor="#EEFAFF" width="230" class="widget">
-			<tr bgcolor="#CEF0FF"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/search-icon.png" /> Cari Sesuatu</h2></td></tr>
+		<table style="border: 1pt ridge #FF8C00;" bgcolor="#FF8C00" width="230" class="widget">
+			<tr bgcolor="#63605F"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/search-icon.png" /> Cari Sesuatu</h2></td></tr>
 				<tr><td width="70">Keyword</td><td width="5">:</td><td width="130"><input name="katakunci" type="text" class="textfield" size="16"/></td></tr>
 						<tr><td width="70">Kategori</td><td width="5">:</td><td width="130">
 							<select name="pencarian" class="textfield-option">

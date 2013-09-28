@@ -82,7 +82,7 @@ padding-right:5px;
 float:left;
 }
 #tengah a{
-color:#666666;
+color:#ffffff;
 text-decoration:none;
 }
 #tengah a:hover{
@@ -96,7 +96,7 @@ padding-left:5px;
 float:left;
 }
 #kanan a{
-color:#666666;
+color:#ffffff;
 text-decoration:none;
 }
 #kanan a:hover{
@@ -125,7 +125,7 @@ font-size:14px;
 padding:0px;
 margin:0px;
 font-weight:bold;
-color:#666666;
+color:#ffffff;
 }
 h3{
 font-size:11px;
@@ -139,14 +139,14 @@ font-size:12px;
 padding:0px;
 margin:0px;
 font-weight:normal;
-color:#666666;
+color:#ffffff;
 }
 h6{
 font-size:13px;
 padding:0px;
 margin:0px;
 font-weight:bold;
-color:#666666;
+color:#ffffff;
 }
 #pilihan{
 width:575px;
@@ -203,7 +203,7 @@ font-family:Arial, Helvetica, sans-serif;
 font-size:17px;
 line-height:140%;
 padding-left:20px;
-color:#666666;
+color:#ffffff;
 width:500px;
 font-weight:bold;
 background-image:url(../images/bg-judul.png);
@@ -214,7 +214,7 @@ font-family:Arial, Helvetica, sans-serif;
 font-size:15px;
 line-height:140%;
 padding-left:5px;
-color:#666666;
+color:#ffffff;
 width:500px;
 font-weight:bold;
 }
@@ -316,7 +316,7 @@ font-size:11px;
 background-color:#EEFAFF;
 border:1px solid #DDDDDD;
 font-size:11px;
-color:#666666;
+color:#ffffff;
 font-weight:bold;
 }
 .tanggalberita {

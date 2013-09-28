@@ -9,7 +9,7 @@
 	?>
 	
 <br /><br />
-<table style="border: 1pt ridge #DDDDDD;" width="470" bgcolor="#EEFAFF" cellpadding="4" cellspacing="1" class="widget">
+<table style="border: 1pt ridge #DDDDDD;" width="470" bgcolor="#FFA500" cellpadding="4" cellspacing="1" class="widget">
 <tr align="center" bgcolor="#52CAFE"><td width="15"><b>No</b></td><td width="400"><b>Judul File</b></td><td width="55"><b>Action</b></td></tr>
 
 <?php 

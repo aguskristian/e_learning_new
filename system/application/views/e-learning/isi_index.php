@@ -34,11 +34,11 @@ foreach($tampil_tutorial->result_array() as $tutorial)
 {
 $isi_tutorial = substr($tutorial['isi'],0,150);
 echo"<div id='kolom-tutorial'>
-<table style='border: 1pt ridge #DDDDDD;' bgcolor='#EEFAFF' class='widget' width='230' height='200'>
-<tr><td bgcolor='#C3EEFF' height='32' valign='top' align='center'><b><a href='".base_url()."index.php/learning/detailtutorial/".$tutorial['id_tutorial']."'><h4>".$tutorial['judul_tutorial']."</h4></b></td></tr>
+<table style='border: 1pt ridge #FFA500;' bgcolor='#FFA500' class='widget' width='230' height='200'>
+<tr><td bgcolor='#63605F' height='32' valign='top' align='center'><b><a href='".base_url()."index.php/learning/detailtutorial/".$tutorial['id_tutorial']."'><h4>".$tutorial['judul_tutorial']."</h4></b></td></tr>
 <tr><td height='10' valign='top'>".$tutorial['tanggal']." -|- ".$tutorial['waktu']." WIB</td></tr>
 <tr><td valign='top'><img src='".base_url()."system/application/views/e-learning/tutorial/".$tutorial['gambar']."' width='70' class='image'>".$isi_tutorial."...<i><a href='".base_url()."index.php/learning/detailtutorial/".$tutorial['id_tutorial']."'>[Lanjut]</a></i></td></tr>
-<tr><td bgcolor='#C3EEFF' align='center'><b><a href='".base_url()."index.php/learning/detailtutorial/".$tutorial['id_tutorial']."'>[Baca Selengkapnya]</a></b></td></tr>
+<tr><td bgcolor='#63605F' align='center'><b><a href='".base_url()."index.php/learning/detailtutorial/".$tutorial['id_tutorial']."'>[Baca Selengkapnya]</a></b></td></tr>
 </table>
 </div>";
 }

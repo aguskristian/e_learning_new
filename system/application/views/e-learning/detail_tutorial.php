@@ -26,13 +26,13 @@ document.write("<a href='http://twitter.com/home/?status=" + document.URL + "' t
 <?php
 //Menampilkan 5 Tutorial Acak
 	//echo"<br>Tutorial ini dibaca sebanyak<b> ".$rows['counter']." kali</b><br>
-	echo "<span class='berita-lain'><img src='".base_url()."system/application/views/e-learning/images/icon-berita.png'>Baca Juga Tutorial Lainnya</span>";
-	echo"<ul>";
-		foreach($acak_tutorial->result_array() as $acak)
+	//echo "<span class='berita-lain'><img src='".base_url()."system/application/views/e-learning/images/icon-berita.png'>Baca Juga Tutorial Lainnya</span>";
+	//echo"<ul>";
+		//foreach($acak_tutorial->result_array() as $acak)
 {
-	echo "<li><a href='".base_url()."index.php/learning/detailtutorial/".$acak['id_tutorial']."'>".$acak['judul_tutorial']."</a></li>";
+	//echo "<li><a href='".base_url()."index.php/learning/detailtutorial/".$acak['id_tutorial']."'>".$acak['judul_tutorial']."</a></li>";
 }
-echo"</ul>";
+//echo"</ul>";
 ?>
 
 <div>

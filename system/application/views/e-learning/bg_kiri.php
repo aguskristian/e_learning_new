@@ -8,8 +8,8 @@
 					$status = $data["status"] = $pecah[3];
 			if($status=="Mahasiswa"){
 		?>
-	<table style="border: 1pt ridge #DDDDDD;" bgcolor="#EEFAFF" class="widget" width="230">
-		<tr bgcolor="#CEF0FF"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Selamat Datang</h2></td></tr>
+	<table style="border: 1pt ridge #FF8C00;" bgcolor="#FF8C00" class="widget" width="230">
+		<tr bgcolor="#FFA072"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Selamat Datang</h2></td></tr>
 			<tr><td align="center" colspan="3">Hai, <b><?php echo $nama; ?></b></td></tr>
 				<tr><td width="5"></td><td><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/user-icon.jpg" class="image"/><td width="175">
 					<a href="<? echo base_url(); ?>index.php/learning/passwordmhs" onclick="return hs.htmlExpand(this, { objectType: 'iframe' } )"><div class="menu-user">Ganti Password</div></a>
@@ -24,8 +24,8 @@
 			}
 			else if($status=="admin"){
 		?>
-	<table style="border: 1pt ridge #DDDDDD;" bgcolor="#EEFAFF" class="widget" width="230">
-		<tr bgcolor="#CEF0FF"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Selamat Datang</h2></td></tr>
+	<table style="border: 1pt ridge #FF8C00;" bgcolor="#FF8C00" class="widget" width="230">
+		<tr bgcolor="#FFA072"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Selamat Datang</h2></td></tr>
 			<tr><td align="center" colspan="3">Hai, <b><?php echo $nama; ?></b></td></tr>
 				<tr><td width="5"></td><td><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/user-icon.jpg" class="image"/><td width="175">
 				<a href="<? echo base_url(); ?>index.php/admin"><div class="menu-user">Masuk ke Panel Admin</div></a>
@@ -39,8 +39,8 @@
 			else if($status=="PA"){
 		?>
 		
-<table style="border: 1pt ridge #DDDDDD;" bgcolor="#EEFAFF" class="widget" width="230">
-	<tr bgcolor="#CEF0FF"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Selamat Datang</h2></td></tr>
+<table style="border: 1pt ridge #FF8C00;" bgcolor="#FF8C00" class="widget" width="230">
+	<tr bgcolor="#FFA072"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Selamat Datang</h2></td></tr>
 		<tr><td align="center" colspan="3">Hai, <b><?php echo $nama; ?></b></td></tr>
 			<tr><td width="5"></td><td><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/user-icon.jpg" class="image"/><td width="175">
 				<a href="<? echo base_url(); ?>index.php/dosen"><div class="menu-user">Masuk ke Panel Dosen</div></a>
@@ -56,8 +56,8 @@
 		?>
 		
 <form method="post" action="<?php echo "".base_url()."index.php/learning/login" ?>">
-	<table style="border: 1pt ridge #DDDDDD;" bgcolor="#EEFAFF" class="widget" width="230">
-		<tr bgcolor="#CEF0FF"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Login Pengguna</h2></td></tr>
+	<table style="border: 1pt ridge #FF8C00;" bgcolor="#FF8C00" class="widget" width="230">
+		<tr bgcolor="#63605F"><td colspan="3"><h2><img src="<?php echo base_url(); ?>system/application/views/e-learning/images/login-icon.png" /> Login Pengguna</h2></td></tr>
 			<tr><td width="70">Username</td><td width="5">:</td><td width="130"><input name="usernameteks" type="text" class="textfield" size="16"/></td></tr>
 			<tr><td width="70">Password</td><td width="5">:</td><td width="130"><input name="passwordteks" type="password" class="textfield" size="16"/></td></tr>
 			<tr><td width="70"></td><td width="5"></td><td width="135"><input type="reset" value="Hapus" class="tombol"/> <input type="submit" value="Log In" class="tombol"/><br><br></td></tr>

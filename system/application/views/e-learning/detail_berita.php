@@ -29,7 +29,7 @@ echo "<li><a href='".base_url()."index.php/learning/detailberita/".$acak['id_ber
 echo"</ul>";
 ?>
 <span class='berita-lain'>Komentar Untuk Berita Ini</span><br>
-<table class="widget" style="border: 1pt ridge #DDDDDD;" width=100% cellpadding="0" cellspacing="1" bgcolor="#EEFAFF">
+<table class="widget" style="border: 1pt ridge #DDDDDD;" width=100% cellpadding="0" cellspacing="1" bgcolor="#FF8C00">
 <?php
 foreach($query->result() as $tampil)
 {
